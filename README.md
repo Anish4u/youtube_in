@@ -1,7 +1,7 @@
 
 
 
-### Technologies And Main Libray used Youtube Replica
+### Technologies And Main Libray used YouTube Replica
 
 - React: Used as the primary front-end library.
 - Redux Toolkit: For state management.
