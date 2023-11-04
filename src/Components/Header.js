@@ -96,7 +96,7 @@ const Head = () => {
         <IoIosMenu 
         onClick={HamburgerOnClickHandler}
         className="text-xl md:text-3xl dark:text-white cursor-pointer"/>
-        <Link to="/">
+        <Link to="/youtube_in">
         <img className="h-4 md:h-6 md:mx-4 mx-1" alt="youtubeLogo" src={darkMode?youtubelogoDarkMode:youtubelogoLightMode}>
         </img></Link>
       </div>
