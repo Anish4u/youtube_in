@@ -22,7 +22,7 @@ export const appRouter = createBrowserRouter([
         element: <Body />,
         children:[
           {
-            path:"/",
+            path:"/youtube_in",
             element: <MainContainer />
           },
           {
