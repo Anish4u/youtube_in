@@ -35,6 +35,7 @@ import {MdFeedback} from "react-icons/md"
 
 export const sideBarIconList=[{
     name:"Home",
+    path:"/youtube_in",
     key:<AiOutlineHome/>
   },{
     name:"Shorts",
