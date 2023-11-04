@@ -14,7 +14,7 @@
 
 ### Home Page
 
-![Home page](./Images/Homepages.jpeg)
+![Home page](./Images/Homepage.jpeg)
 
 ### Home Page in Dark Mode
 
