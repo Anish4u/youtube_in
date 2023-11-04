@@ -1,7 +1,7 @@
 
 
 
-### Technologies Used
+### Technologies And Main Libray used Youtube Replica
 
 - React: Used as the primary front-end library.
 - Redux Toolkit: For state management.
@@ -10,12 +10,26 @@
 - Babel: As the transcompiler for modern JavaScript.
 
 
-## Getting Started
+## Functionality of the App
 
-To run this project locally, follow these steps:
+### Home Page
 
-1. Clone the repository to your local machine.
-2. Navigate to the project directory.
-3. Install the required dependencies using `npm install`.
-4. Start the development server with `npm start`.
+![Home page](./Images/Homepages.jpeg)
 
+### Home Page in Dark Mode
+
+![Home page](./Images/DarkTheme.jpeg
+)
+### Search Suggestions While Entering Data in the Search Bar
+
+![Search Suggestions](./Images/SearchSuggestions.jpeg)
+### Enabling Infinite Scroll While Scrolled Down
+
+![Infinite Scroll in Home Page](./Images/InfinteScroll.jpeg)
+
+
+### Streaming Video && Show chatBox
+![Live Chat](./Images/LiveStreamVideo And Chat.jpeg)
+
+### Clicking on Shorts in Side Bar
+![Shorts Results](./Images/ShortsPage.jpeg)
