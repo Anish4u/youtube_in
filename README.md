@@ -29,7 +29,7 @@
 
 
 ### Streaming Video && Show chatBox
-![Live Chat](./Images/LiveStreamVideo And Chat.jpeg)
+![Live Chat](./Images/LiveStreamVideoAndChat.jpeg)
 
 ### Clicking on Shorts in Side Bar
 ![Shorts Results](./Images/ShortsPage.jpeg)
