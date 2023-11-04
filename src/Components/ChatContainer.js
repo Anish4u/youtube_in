@@ -35,7 +35,7 @@ const ChatContainer = () => {
             }}/>
             <button className='font-bold px-2 py-1 mx-2 bg-green-100 dark:bg-slate-500'
              onClick={()=>{
-                dispatch(AddChatItem({name:"BabuRao" ,text:liveText}))
+                dispatch(AddChatItem({name:"Anish" ,text:liveText}))
                 setLiveText("")
              }}
             >Submit</button>

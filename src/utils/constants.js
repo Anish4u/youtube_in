@@ -1,4 +1,5 @@
-export const Google_api_key = "AIzaSyCc4F4w0BS9ED1YozYKJPZ2VwPzv-7oEOM";
+// export const Google_api_key = "AIzaSyCc4F4w0BS9ED1YozYKJPZ2VwPzv-7oEOM";
+export const Google_api_key = "AIzaSyBaFuahWE0DX2vY1AwWTCZDlcm6u99addE";
 
 export const video_recommendations_api = `https://www.googleapis.com/youtube/v3/activities?part=snippet%2CcontentDetails&maxResults=50&regionCode=in&key=${Google_api_key}&channelId=`;
 
@@ -24,16 +25,11 @@ export const video_comments_details_api =
   "https://www.googleapis.com/youtube/v3/commentThreads?textFormat=plainText&part=snippet&maxResults=100&order=relevance&key=" +
   Google_api_key +
   "&videoId=";
-var nameList = [
-  "Adil",
-  "Babu",
-  "Afroz",
-  "Kiran",
-  "Vinay",
-  "Balu",
-  "Hk",
-  "Sai Teja",
-];
+  var nameList = [
+    "Alexander",
+    "Jonatan",
+    "Anish",
+  ];
 export function generateRandomName() {
   return nameList[Math.floor(Math.random() * nameList.length)];
 }
