@@ -9,7 +9,7 @@
 - Parcel: The bundler used for the project.
 - Babel: As the transcompiler for modern JavaScript.
 
-Key functionalities are as below.
+## Key functionalities are as below.
 - Dark mode and light mode for user preferences.
 - Real-time data fetching from the YouTube API.
 - Infinite scrolling for seamless content browsing.
