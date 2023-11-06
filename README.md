@@ -9,6 +9,17 @@
 - Parcel: The bundler used for the project.
 - Babel: As the transcompiler for modern JavaScript.
 
+Key functionalities are as below.
+
+Key Features:
+- Dark mode and light mode for user preferences.
+- Real-time data fetching from the YouTube API.
+- Infinite scrolling for seamless content browsing.
+- Search optimization with debouncing.
+- Caching search suggestions to reduce unnecessary API calls.
+- Lazy loading for faster page load times.
+- Live chat functionality using API polling.
+- Shimmer effect for an enhanced UI experience.
 
 ## Functionality of the App
 
